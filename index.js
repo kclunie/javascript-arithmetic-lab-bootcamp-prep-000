@@ -27,6 +27,6 @@ function makeInt(a.toString()) {
 function makeInt('0x2328') {
   return 0
 }
-  function makeInt(a.toString()) {
-  return a
+function isNaN(makeInt('sldkjflksjf')) {
+  return true
 }
