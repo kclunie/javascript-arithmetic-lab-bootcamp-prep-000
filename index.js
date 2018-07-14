@@ -21,6 +21,12 @@ function inc(a) {
 function dec(a) {
   return a - 1
 }
-/*function makeInt(a.toString()) {
+function makeInt(a.toString()) {
   return a
-}*/
+}
+function makeInt(a.toString()) {
+  return a
+}
+  function makeInt(a.toString()) {
+  return a
+}
