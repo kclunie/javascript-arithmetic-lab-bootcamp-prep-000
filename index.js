@@ -25,15 +25,7 @@ function dec(a) {
 function makeInt(n) {
   return parseInt(n, 10)
 }
-/*function makeInt('0x2328') {
-  return 0
-}
-function isNaN(makeInt('sldkjflksjf')) {
-  return true
-}*/
+
 function preserveDecimal(n) {
   return parseFloat(n)
 }
-/*function isNaN(preserveDecimal('sldkjflksjf')) {
-  return true
-}*/
