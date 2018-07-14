@@ -33,6 +33,6 @@ function isNaN(makeInt('sldkjflksjf')) {
 function preserveDecimal('2.222') {
   return 2.222
 }
-function dec(a) {
+function isNaN(preserveDecimal('sldkjflksjf')) {
   return a - 1
 }
