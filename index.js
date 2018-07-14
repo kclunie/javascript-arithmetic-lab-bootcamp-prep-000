@@ -34,5 +34,5 @@ function preserveDecimal('2.222') {
   return 2.222
 }
 function isNaN(preserveDecimal('sldkjflksjf')) {
-  return a - 1
+  return true
 }
