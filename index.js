@@ -23,8 +23,7 @@ function dec(a) {
 }
 
 function makeInt(n) {
-  parseInt(n, 10)
-  return a
+  return parseInt(n, 10)
 }
 /*function makeInt('0x2328') {
   return 0
