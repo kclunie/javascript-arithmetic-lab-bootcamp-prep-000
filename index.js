@@ -21,8 +21,9 @@ function inc(a) {
 function dec(a) {
   return a - 1
 }
-parseInt(n, 10)
+
 function makeInt(n) {
+  parseInt(n, 10)
   return a
 }
 /*function makeInt('0x2328') {
