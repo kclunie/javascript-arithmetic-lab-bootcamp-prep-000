@@ -32,7 +32,7 @@ function isNaN(makeInt('sldkjflksjf')) {
   return true
 }*/
 function preserveDecimal(n) {
-  return parseFloat(2.222)
+  return parseFloat(n)
 }
 function isNaN(preserveDecimal('sldkjflksjf')) {
   return true
