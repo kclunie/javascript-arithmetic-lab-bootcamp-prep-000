@@ -30,3 +30,9 @@ function makeInt('0x2328') {
 function isNaN(makeInt('sldkjflksjf')) {
   return true
 }
+function dec(a) {
+  return a - 1
+}
+function dec(a) {
+  return a - 1
+}
